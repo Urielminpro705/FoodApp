@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="email">Correro Electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="our_categories_text">Nuestras categorias</string>
+    <string name="restaurant_title">Busca los mejores restaurantes</string>
+
+</resources>
